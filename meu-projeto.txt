@@ -1,2 +1,3 @@
 ﻿Relatório do Encontro de Ciência Aberta.
 Vou participar da oficina Hackaton de hardware científico aberto
+pretendo participar do semninario "Ferramentas científicas e hardware abertos"
