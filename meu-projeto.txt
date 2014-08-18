@@ -1,1 +1,2 @@
-Relatório do Encontro de Ciência Aberta.
+﻿Relatório do Encontro de Ciência Aberta.
+Vou participar da oficina Hackaton de hardware científico aberto
